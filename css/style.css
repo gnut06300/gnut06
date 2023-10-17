@@ -1,0 +1,31 @@
+.logoNavbar
+{
+    width: auto;
+    height: 40px;
+}
+
+.logo_footer
+{
+    width: 70%;
+    height: auto;
+}
+/* Début Google map */
+.google-map{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .map-responsive{
+    margin:0;
+    overflow:hidden;
+      padding-bottom:20%;
+      position:relative;
+  
+  }
+  .map-responsive iframe{
+      left:0;
+      top:0;
+      height:100%;
+      width:100%;
+      position:absolute;
+  }
+  /* Fin Google map*/

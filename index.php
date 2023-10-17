@@ -1,3 +1,12 @@
-<?php include_once 'partials/_header.php' ?>
-    <h1>Association Gnut 06</h1>
-<?php 'partials/_footer.php' ?>
+<?php
+if (!isset($_SESSION)) {
+    session_start();
+}
+
+if (!empty($_GET['page']) && is_file('controllers/' . $_GET['page'] . '.controller.php')) {
+    // controllers/accueil.php
+    require_once 'controllers/' . $_GET['page'] . '.controller.php';
+} else {
+
+    require_once 'controllers/index.controller.php';
+}
