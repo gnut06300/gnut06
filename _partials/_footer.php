@@ -5,13 +5,13 @@
 </div>
 <footer class="container-fluid bg-black text-light">
     <div class="row py-5">
-        <div class="col-5 col-lg-2 text-end">
+    <div class="col-5 col-lg-2 text-end">
             <img class="logo_footer" src="images/iris.jpg" alt="logo de l'Association Gnut 06">
         </div>
         <div class="col-7 col-lg-2 text-start pt-2">
         </div>
-       <div class="col-12 col-lg-5 text-center">
-
+       <div class="col-12 col-lg-5 text-center mt-4 d-flex align-items-center">
+            <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/gnut-06/adhesions/adhesion-a-l-association-gnut-06/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
         </div>
         <div class="col-12 col-lg-3 mt-3 mt-lg-0 text-center">
             <h5>L'Association Gnut 06</h5>

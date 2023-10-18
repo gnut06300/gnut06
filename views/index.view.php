@@ -12,26 +12,15 @@
         </video>
     </div>
     <div class="col-12 col-lg-6 mt-3 mt-lg-0">
-        <p>L'association <strong>"L'assocition Gnut 06"</strong> organise son premier festival !<br />
-        <p>Chers contacts et collègues,
+        <p>Gnut 06 est une association dédiée à l'inclusion des personnes en situation de handicap grâce aux technologies innovantes. Notre mission est d'utiliser des outils tels que la réalité virtuelle, la réalité augmentée et la réalité mixte pour offrir des expériences concrètes et enrichissantes aux personnes en situation de handicap, favorisant ainsi leur intégration sociale et leur épanouissement.</p>
 
-        <p>Je suis très heureux de vous annoncer notre nouveau projet qui vise à créer une association dédiée à la réinsertion et à l'inclusion des personnes en situation de handicap, en mettant particulièrement l'accent sur la neurodiversité. Je suis convaincu que les nouvelles technologies, que je maîtrise bien, peuvent jouer un rôle clé dans la réalisation de ce projet. Parmi ces technologies, nous envisageons d'utiliser la 3D en temps réel, la réalité virtuelle, la réalité augmentée et potentiellement l'intelligence artificielle (si Avencod ne la propose pas déjà).</p>
+        <p>Nous organisons des visites à l'hôpital, où nous proposons aux patients des moments d'évasion et de divertissement à travers l'utilisation de casques de réalité virtuelle. Ces expériences immersives permettent aux personnes en situation de handicap de s'évader de leur environnement médicalisé et de vivre des aventures virtuelles uniques, tout en stimulant leur imagination et leur bien-être.</p>
 
-        <p>L'objectif principal de notre association sera de créer un environnement inclusif où les personnes en situation de handicap pourront s'épanouir et développer leurs compétences. Nous voulons offrir des opportunités d'apprentissage et d'emploi adaptées à leurs besoins spécifiques, en utilisant les nouvelles technologies pour faciliter leur intégration socio-professionnelle.</p>
+        <p>Parallèlement, nous proposons des stages d'initiation aux nouvelles technologies, ouverts à tous, afin d'aider les personnes en situation de handicap à développer de nouvelles compétences et à découvrir de nouvelles possibilités dans le domaine des technologies. Ces stages leur offrent la possibilité d'acquérir des connaissances pratiques, de renforcer leur estime de soi et de favoriser leur autonomie.</p>
 
-        <p>Dans un deuxième temps, nous envisageons d'explorer l'utilisation de la cryptomonnaie comme moyen de financement. Bien que je sois administrateur d'un canal Telegram dédié aux mineurs de cryptomonnaie, je n'ai pas encore une connaissance approfondie du développement de la cryptomonnaie sur le réseau. Cependant, je suis adhérent d'une association, <a href="https://lnkd.in/eZ9DdsPs">Blockchain Innov</a>, qui peut-être pourra m'aider à combler cette lacune et à acquérir les compétences nécessaires pour exploiter pleinement le potentiel de la cryptomonnaie dans notre projet.</p>
+        <p>L'association Gnut 06 s'engage à promouvoir une société inclusive où tous les individus, quel que soit leur handicap, ont la possibilité de participer pleinement à la vie sociale, culturelle et professionnelle. Nous croyons fermement que les technologies innovantes peuvent jouer un rôle essentiel dans ce processus d'inclusion, en ouvrant de nouvelles perspectives et en brisant les barrières.</p>
 
-        <p>Je souhaite profiter de cette annonce pour remercier sincèrement tous ceux qui m'ont soutenu jusqu'à présent. Votre soutien et vos encouragements sont d'une valeur inestimable, et je suis convaincu que, grâce à notre collaboration, nous pourrons réaliser de grandes choses pour l'inclusion et la réinsertion des personnes en situation de handicap.</p>
-
-        <p>Si vous souhaitez en savoir plus sur notre projet, si vous avez des conseils à partager ou si vous souhaitez vous impliquer d'une manière ou d'une autre, n'hésitez pas à me contacter directement. Ensemble, nous pourrons faire une réelle différence dans la vie de nombreuses personnes.
-        </p>
-        <p>
-            Je vous tiendrai régulièrement informés de nos progrès, des réalisations et des opportunités de rejoindre cette belle aventure.
-        </p>
-        <p>
-            #ProjetInclusion #Réinsertion #TechnologiePourTous</p><br>
-        <strong>Très bon festival à tous !</strong></p>
-        <p class="text-end">Gérald James COL Pésident de l'assocition Gnut06 ou Gnut</p>
+        <p><a href="?page=adhesion">En adhérant à Gnut 06</a>, vous devenez un acteur clé de notre lutte pour l'inclusion. Votre soutien nous permettra de continuer nos actions, d'améliorer la qualité de vie des personnes en situation de handicap et de promouvoir une société plus juste et égalitaire pour tous. Ensemble, construisons un monde où le handicap ne limite pas les possibilités, mais les enrichit.</p>
     </div>
     <div class="row mt-5">
         <h2 class="text-center mt-1 mb-5 text-primary" id="monceau">Si vous habitez dans notre belle capitale, Paris, un des meilleurs endroit pour nous découvrir est le Parc Monceau</h2>
