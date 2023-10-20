@@ -4,7 +4,7 @@
     <header>
         <?php require_once '_partials/_nav.php' ?>
     </header>
-    <main role="main" class="container text-center bg-warning-subtle text-emphasis-warning py-5 fs-5">
+    <main role="main" class="container bg-warning-subtle text-emphasis-warning py-5 fs-5">
 
         <?= $contenu;  ?>
 
