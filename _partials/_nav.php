@@ -9,12 +9,6 @@
         <li class="nav-item">
           <a class="nav-link <?= (empty($_GET['page']) || ($_GET['page'] == "index")) ? "active" : "" ?>" aria-current="page" href="?page=index">Accueil</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link <?= (!empty($_GET['page']) && $_GET['page'] == "adhesion") ? "active" : "" ?>" href="?page=adhesion">Adhésion</a>
-        </li>
-       <li class="nav-item">
-          <a class="nav-link <?= (!empty($_GET['page']) && $_GET['page'] == "contact") ? "active" : "" ?>" href="?page=contact">Contact</a>
-        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Nos Hubs
@@ -24,6 +18,12 @@
             <li><a class="dropdown-item" href="https://8b9007428f.us1.myhubs.net/link/eCicRYk" target="_blank">Studio Gnut 06</a></li>
             <!-- <li><a class="dropdown-item" href="#">Something else here</a></li> -->
           </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link <?= (!empty($_GET['page']) && $_GET['page'] == "adhesion") ? "active" : "" ?>" href="?page=adhesion">Adhésion</a>
+        </li>
+       <li class="nav-item">
+          <a class="nav-link <?= (!empty($_GET['page']) && $_GET['page'] == "contact") ? "active" : "" ?>" href="?page=contact">Contact</a>
         </li>
       </ul>
     </div>
