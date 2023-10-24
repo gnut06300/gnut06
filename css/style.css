@@ -1,31 +1,63 @@
-.logoNavbar
-{
-    width: auto;
-    height: 40px;
+.logoNavbar {
+  width: 50px;
+  height: 50px;
 }
 
-.logo_footer
-{
-    width: 70%;
-    height: auto;
+.logo_footer {
+  width: 70%;
+  height: auto;
 }
 /* Début Google map */
-.google-map{
-    padding-left: 0px;
-    padding-right: 0px;
-  }
-  .map-responsive{
-    margin:0;
-    overflow:hidden;
-      padding-bottom:20%;
-      position:relative;
-  
-  }
-  .map-responsive iframe{
-      left:0;
-      top:0;
-      height:100%;
-      width:100%;
-      position:absolute;
-  }
-  /* Fin Google map*/
+
+/* .google-map {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.map-responsive {
+  margin: 0;
+  overflow: hidden;
+  padding-bottom: 20%;
+  position: relative;
+}
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+} */
+
+/* Elimine le blanc entre la map et footer*/
+/* .map-responsive {
+  display: flex;
+  justify-content: center;
+} */
+
+.map-responsive iframe {
+  width: 100%;
+}
+/* Fin Google map*/
+
+/* New CSS */
+body {
+  font-family: "Lato", serif !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Abril Fatface", serif !important;
+}
+
+/* Remove for complete responsive carousel */
+.carousel-item img {
+  max-height: 100vh;
+}
+
+/* Footer */
+.icon-footer {
+  border-radius: 50%;
+}
