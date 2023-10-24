@@ -1,5 +1,6 @@
 <?php ob_start() ?><!--Contenu-->
 <!--Contenu-->
+<div class="pt-5">
 <div class="row pt-5">
   <h1 class="text-center mb-5"><i class="bi bi-person-lines-fill me-3"></i>Une question contactez-nous !</h1>
   <?php
@@ -38,7 +39,7 @@
   </div>
   <div class="col-12 col-lg-5 text-center order-lg-1"><img class="img-fluid shadow-lg rounded-3" src="images/monceau/image_parc.jpg"></div>
 </div>
-
+</div>
 <?php $contenu = ob_get_clean()  ?>
 
 
