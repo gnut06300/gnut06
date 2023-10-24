@@ -4,7 +4,7 @@
 <div class="row mt-5">
     <h1 class="text-center mb-4 text-primary">L'Association loi 1901 Gnut 06</h1>
     <div class="col-12 col-lg-6">
-        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/625290634?h=502693e9f7&autoplay=1&loop=1&muted=1&color=ff83cd&title=0&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; muted" allowfullscreen></iframe></div>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; muted" allowfullscreen></iframe></div>
         <script src="https://player.vimeo.com/api/player.js"></script>
 
         <br> <video class="img-fluid shadow-lg rounded-3 mt-4 mb-4" autoplay muted loop>
