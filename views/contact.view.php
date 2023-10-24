@@ -16,7 +16,7 @@
   ?>
   <div class="col-12 col-lg-7 order-lg-2">
     <p><span class="text-danger">*</span> : champ obligatoire</p>
-    <form class="row g-4 mb-5" method="POST" action="?page=contact">
+    <form class="row g-4 mb-5 mx-5" method="POST" action="?page=contact">
       <div class="col-lg-6">
         <input type="text" class="form-control" name="first_name" placeholder="Prénom*" aria-label="First name" required>
       </div>

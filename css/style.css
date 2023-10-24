@@ -7,6 +7,10 @@
   width: 70%;
   height: auto;
 }
+
+.logoBack{
+  background-color: black;
+}
 /* Début Google map */
 
 /* .google-map {

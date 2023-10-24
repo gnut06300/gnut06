@@ -4,10 +4,10 @@
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11538.464409231183!2d7.276192!3d43.6977439!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cddb4a04d5bfeb%3A0xf2103d85154acfb9!2sL&#39;association%20Gnut%2006!5e0!3m2!1sfr!2sfr!4v1698144260726!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        </div>
 </div>
 
-<footer class="container-fluid bg-dark text-light">
+<footer class="container-fluid logoBack text-light">
     <div class="row py-5">
         <div class="col-12 col-md-4 d-flex justify-content-center align-items-center">
-            <img class="logo_footer" src="images/Gnut 06.png" alt="logo de l'Association Gnut 06">
+            <img class="logo_footer" src="images/iris.jpg" alt="logo de l'Association Gnut 06">
         </div>
         <div class="col-12 col-md-4 d-flex align-items-center mt-5">
             <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/gnut-06/adhesions/adhesion-a-l-association-gnut-06/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
@@ -34,7 +34,7 @@
             <a href="https://linkedin.com/in/gerald-col/" style="display:block" target="_blank" data-block-id="-12"><img width="40" height="auto" style="border:0;width:40px;height:auto;max-width:100%;display:block;background-color:dodgerblue;" alt="LinkedIn icon" src="https://dim.mcusercontent.com/https/cdn-images.mailchimp.com%2Ficons%2Fsocial-block-v3%2Fblock-icons-v3%2Flinkedin-filled-light-40.png?w=40&dpr=2" class="icon-footer" /></a>
         </div>
     </div>
-    <div class="bg-dark py-3 text-center col-12">
+    <div class="py-3 text-center col-12">
         <ul class="list-inline text-center">
             <li class="list-inline-item text-light"><?php
                                                     $jours = ['Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi', 'Dimanche'];
