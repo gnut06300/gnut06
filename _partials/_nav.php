@@ -14,7 +14,8 @@
             Nos Hubs
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="https://e48e47fd6e.us1.myhubs.net/link/U8Tr4Tz" target="_blank">Club Art Prod</a></li>
+            <li><a class="dropdown-item" href="https://e24594a3fa.us2.myhubs.net/link/5NCxmiB" target="_blank">Accueil Gnut 06</a></li>
+            <li><a class="dropdown-item" href="https://e48e47fd6e.us1.myhubs.net/link/U8Tr4Tz" target="_blank">Maurel Communication &amp; Events</a></li>
             <li><a class="dropdown-item" href="https://8b9007428f.us1.myhubs.net/link/eCicRYk" target="_blank">Studio Gnut 06</a></li>
             <!-- <li><a class="dropdown-item" href="#">Something else here</a></li> -->
           </ul>
@@ -22,7 +23,7 @@
         <li class="nav-item">
           <a class="nav-link <?= (!empty($_GET['page']) && $_GET['page'] == "adhesion") ? "active" : "" ?>" href="?page=adhesion">Adhésion</a>
         </li>
-       <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link <?= (!empty($_GET['page']) && $_GET['page'] == "contact") ? "active" : "" ?>" href="?page=contact">Contact</a>
         </li>
       </ul>
